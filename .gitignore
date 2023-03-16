@@ -15,3 +15,5 @@ __pycache__/
 .vscode/
 .idea/
 
+# Ignore helper scripts for automation
+.helpers
