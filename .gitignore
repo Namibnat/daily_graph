@@ -17,3 +17,5 @@ __pycache__/
 
 # Ignore helper scripts for automation
 .helpers
+.data
+.DS_Store
